@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FVJASP1.props" />
+</Project>
