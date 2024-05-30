@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FVJASP1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa10f587a4e9470e219ba71eab4832af5c2d98b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b67f18d68d4ddc65ce76b19f4317f04770dc14c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FVJASP1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FVJASP1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
