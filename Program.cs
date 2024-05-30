@@ -4,7 +4,7 @@ using FVJASP1.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<ApplicationDBContext>(options =>
-    options.UseSqlServer("Server=SQLEXPRESS;Database=DB_Store;Integrated Security=True;"));
+    options.UseSqlServer("Server=localhost\\SQLEXPRESS,1433;Database=DB_Store;Integrated Security=True;"));
 
 builder.Services.AddScoped<StoreService>();
 builder.Services.AddControllersWithViews();

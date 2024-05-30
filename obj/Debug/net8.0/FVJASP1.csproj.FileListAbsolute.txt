@@ -134,3 +134,4 @@ C:\Users\x\Documents\personal-projects\cs\aspnet\FVJASP1\bin\Debug\net8.0\runtim
 C:\Users\x\Documents\personal-projects\cs\aspnet\FVJASP1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\x\Documents\personal-projects\cs\aspnet\FVJASP1\obj\Debug\net8.0\FVJASP1.csproj.AssemblyReference.cache
 C:\Users\x\Documents\personal-projects\cs\aspnet\FVJASP1\obj\Debug\net8.0\FVJASP1.csproj.CopyComplete
+C:\Users\x\Documents\personal-projects\cs\aspnet\FVJASP1\obj\Debug\net8.0\FVJASP1.sourcelink.json
