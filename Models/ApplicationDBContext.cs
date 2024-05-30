@@ -4,11 +4,11 @@ namespace FVJASP1.Models
 {
     public class ApplicationDBContext : DbContext
     {
-        public DbSet<Product> Products { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options)
+            : base(options)
         {
-            optionsBuilder.UseSqlServer("Server=SQLEXPRESS;Database=DB_Store;Integrated Security=True;");
         }
+
+        public DbSet<Product> Products { get; set; }
     }
 }
